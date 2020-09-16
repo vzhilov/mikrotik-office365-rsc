@@ -9,7 +9,6 @@ Collects list of IPs from *Office 365 IP Address and URL web service* and genera
 Python 3.5 or above
 
 
-
 ***Usage:***
 
 `git clone https://github.com/vzhilov/mikrotik-office365-rsc
